@@ -3,7 +3,7 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 // Contact details
-global.sessionid = process.env.SESSION_ID || '';
+global.sessionid = process.env.SESSION_ID || 'hjhjhjhjhjhjhjhjhjhjhjhjhjhjhjhjhjhjhjhjhjhjhjhjhjhj';
 global.ytname = process.env.YT_NAME || "YT: @EliteProTechs";
 global.socialm = process.env.SOCIAL_M || "GitHub: EliteProTech";
 global.location = process.env.LOCATION || "Nigeria, Port Harcourt";
